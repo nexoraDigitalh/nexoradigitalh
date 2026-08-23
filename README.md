@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Empowering Your Business with 24/7 Digital, Security & AI Automation Solutions</b><br>
-  <a href="https://nextradigital.com"><b>www.nextradigital.com</b></a> • 
-  <a href="mailto:nextradigital.h@gmail.com"><b>nextradigital.h@gmail.com</b></a>
+  <a href="https://nexoradigital.com"><b>www.nexoradigital.com</b></a> • 
+  <a href="mailto:nexoradigital.h@gmail.com"><b>nexoradigital.h@gmail.com</b></a>
 </p>
 
 <p align="center">
@@ -46,8 +46,8 @@ Welcome to **Nexora Digital**! We are a full-service digital agency dedicated to
 
 Ready to transform your digital presence? Get in touch with us today!
 
-- 🌐 **Website:** [nextradigital.com](https://nexoradigital.com)
-- 📧 **Email:** [nextradigital.h@gmail.com](mailto:nexoradigital.h@gmail.com)
+- 🌐 **Website:** [nexoradigital.com](https://nexoradigital.com)
+- 📧 **Email:** [nexoradigital.h@gmail.com](mailto:nexoradigital.h@gmail.com)
 - 🕒 **Service Hours:** 24/7 / Always Available
 
 ---
