@@ -53,5 +53,5 @@ Ready to transform your digital presence? Get in touch with us today!
 ---
 
 <p align="center">
-  © Nextra Digital. All Rights Reserved.
+  © Nexora Digital. All Rights Reserved.
 </p>
