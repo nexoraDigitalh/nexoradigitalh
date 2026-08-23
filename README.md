@@ -46,8 +46,13 @@ Welcome to **Nexora Digital**! We are a full-service digital agency dedicated to
 
 Ready to transform your digital presence? Get in touch with us today!
 
-- 🌐 **Website:** [nexoradigital.com](https://nexoradigital.com)
-- 📧 **Email:** [nexoradigital.h@gmail.com](mailto:nexoradigital.h@gmail.com)
+- 🌐 **Website:** [nextradigital.com](https://nextradigital.com)
+- 📧 **Email:** [nextradigital.h@gmail.com](mailto:nextradigital.h@gmail.com)
+
+<br>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61560168136504#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801886690403)
 - 🕒 **Service Hours:** 24/7 / Always Available
 
 ---
